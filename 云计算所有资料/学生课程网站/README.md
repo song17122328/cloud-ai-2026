@@ -13,7 +13,7 @@
 
 ## 网站维护
 
-`index.html`为首页，`files/`存放教学大纲、讲义PDF，以及课程作业及联邦实践资料（课程作业指导、联邦学习动手实践课件、任务书、超算使用手册、GPU 排队说明与替代方案、student_kit 材料包）。更新后提交并推送`main`，`Publish student course website`工作流通过GitHub Pages发布。
+`index.html`为首页，`files/`存放教学大纲、讲义PDF，以及课程作业及联邦实践资料（课程作业指导、联邦学习动手实践课件、任务书、超算使用手册、student_kit 材料包）。更新后提交并推送`main`，`Publish student course website`工作流通过GitHub Pages发布。
 
 仓库跟踪学生网站、根目录`.gitignore`和`.github/workflows/pages.yml`。新增资料时同步首页链接及`.gitignore`允许条目。内部教学文件保留在本地。
 
